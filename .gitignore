@@ -1,0 +1,31 @@
+#banco de dados
+db.sqlite3
+
+#pasta com arquivos de migração:
+*/migrations/*.pyc
+*/migrations/__pycache__
+
+
+
+#Arquivos Python compilados:
+*.pyc
+__pycache__
+
+   
+   
+#Pastas de ambiente virtual:
+venv/
+env/
+.venv/
+
+
+
+#Arquivos de log:
+.log
+
+#Arquivos de configuração do sistema (IDE/editor):
+.vscode/
+.idea/
+
+#Arquivos estáticos que podem ser gerados (opcional):
+staticfiles/
