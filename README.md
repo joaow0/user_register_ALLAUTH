@@ -31,6 +31,7 @@ Start the server:
 python manage.py runserver  
 
 Notes
+
 Signup form is extended to include custom fields ✍️
 
 Templates are basic and easy to customize 🎨
@@ -60,14 +61,12 @@ Crie e ative um ambiente virtual
 
 Rode as migrações:
 
-
 python manage.py migrate  
 Inicie o servidor:
 
-
 python manage.py runserver  
-Observações
 
+Observações
 
 Formulário de cadastro estendido para campos personalizados ✍️
 
