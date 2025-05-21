@@ -3,6 +3,8 @@ User Registration System with Django Allauth 🚀
 
 
 English
+
+
 This is a user registration system built with Django and configured using Django Allauth for authentication.
 It provides a customizable signup and login system with these features:
 
@@ -38,6 +40,8 @@ Solid base to build more features or integrate into larger projects 🏗️
 
 
 Português
+
+
 Sistema de cadastro de usuários feito com Django e configurado com Django Allauth para autenticação.
 Oferece cadastro e login customizáveis com os seguintes recursos:
 
